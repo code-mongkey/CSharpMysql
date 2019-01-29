@@ -1,0 +1,9 @@
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\bin\Debug\SQLConnect.exe.config
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.csprojResolveAssemblyReference.cache
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.Form1.resources
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.Properties.Resources.resources
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.csproj.GenerateResource.Cache
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\bin\Debug\SQLConnect.exe
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\bin\Debug\SQLConnect.pdb
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.exe
+c:\users\ymca0\documents\visual studio 2012\Projects\SQLConnect\SQLConnect\obj\Debug\SQLConnect.pdb
